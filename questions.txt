@@ -1,0 +1,9 @@
+Q1 Select the MSI clock range by configuring the MSIRANGE bits of RCC CR (RCC Clock Con-
+trol Register). Check “STM32L4 Reference Manual” and stm32l476xx.h to find out what
+values the MSIRANGE bits should be: 0b0111
+
+
+We use CLKSOURCE = 0, what is the value of the SysTick Reload Value Register that
+will generate an interrupt every 1 ms?
+
+Q2: SysTick_LOAD=fMSI/8*0.001-1, which is 499.
