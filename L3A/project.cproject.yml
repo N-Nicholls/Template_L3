@@ -1,0 +1,62 @@
+project:
+  packs:
+    - pack: ARM::CMSIS@^5.9.0
+    - pack: Keil::STM32L4xx_DFP@^2.6.1
+    - pack: ARM::CMSIS-NN@^4.0.0
+    - pack: ARM::CMSIS-DSP@^1.10.1
+  setups:
+    - setup: Options for Target_1
+      processor:
+        fpu: sp
+      debug: "on"
+      misc:
+        - C:
+            - -std=c99
+          C-CPP:
+            - -fno-rtti
+            - -funsigned-char
+            - -fshort-enums
+            - -fshort-wchar
+            - -ffunction-sections
+            - -Wall
+            - -Wextra
+            - -Wno-packed
+            - -Wno-reserved-id-macro
+            - -Wno-unused-macros
+            - -Wno-documentation-unknown-command
+            - -Wno-documentation
+            - -Wno-license-management
+            - -Wno-parentheses-equality
+          CPP:
+            - -xc++
+            - -std=c++98
+            - -fno-exceptions
+          ASM:
+            - -masm=auto
+          Link:
+            - --map
+            - --load_addr_map_info
+            - --xref
+            - --callgraph
+            - --symbols
+            - --info sizes
+            - --info totals
+            - --info unused
+            - --info veneers
+            - --strict
+            - --summary_stderr
+            - --info summarysizes
+  linker:
+    - script: project_Target_1.sct
+  groups:
+    - group: Source Group 1
+      files:
+        - file: src/main.c
+        - file: src/startup_stm32l476xx.s
+        - file: src/stm32l476xx.h
+        - file: src/LED.c
+        - file: src/LED.h
+        - file: src/SysTimer.c
+        - file: src/SysTimer.h
+  components:
+    - component: ARM::CMSIS:CORE

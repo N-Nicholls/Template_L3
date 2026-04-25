@@ -1,0 +1,161 @@
+build:
+  generated-by: csolution version 2.13.0+p3-g40b6564e
+  solution: ../../../project.csolution.yml
+  project: ../../../project.cproject.yml
+  context: project+Target_1
+  compiler: AC6
+  device: STMicroelectronics::STM32L476RGTx
+  device-pack: Keil::STM32L4xx_DFP@2.7.0
+  device-books:
+    - name: ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0/Documentation/DM00083560.pdf
+      title: STM32L47xxx, STM32L48xxx, STM32L49xxx and STM32L4Axxx Reference Manual
+    - name: ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0/Documentation/DM00108832.pdf
+      title: STM32L476xx Data Sheet
+    - name: ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0/Documentation/dui0553a_cortex_m4_dgug.pdf
+      title: Cortex-M4 Generic User Guide
+  dbgconf:
+    - file: ../../../.cmsis/project+Target_1.dbgconf
+      version: 0.0.0
+      status: missing file
+  processor:
+    dsp: on
+    endian: little
+    fpu: sp
+    core: Cortex-M4
+  packs:
+    - pack: ARM::CMSIS@5.9.0
+      path: ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0
+    - pack: Keil::STM32L4xx_DFP@2.7.0
+      path: ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0
+  optimize: debug
+  debug: on
+  misc:
+    ASM:
+      - -masm=auto
+    C:
+      - -std=c99
+      - -fno-rtti
+      - -funsigned-char
+      - -fshort-enums
+      - -fshort-wchar
+      - -ffunction-sections
+      - -Wall
+      - -Wextra
+      - -Wno-packed
+      - -Wno-reserved-id-macro
+      - -Wno-unused-macros
+      - -Wno-documentation-unknown-command
+      - -Wno-documentation
+      - -Wno-license-management
+      - -Wno-parentheses-equality
+    CPP:
+      - -xc++
+      - -std=c++98
+      - -fno-exceptions
+      - -fno-rtti
+      - -funsigned-char
+      - -fshort-enums
+      - -fshort-wchar
+      - -ffunction-sections
+      - -Wall
+      - -Wextra
+      - -Wno-packed
+      - -Wno-reserved-id-macro
+      - -Wno-unused-macros
+      - -Wno-documentation-unknown-command
+      - -Wno-documentation
+      - -Wno-license-management
+      - -Wno-parentheses-equality
+    Link:
+      - --map
+      - --load_addr_map_info
+      - --xref
+      - --callgraph
+      - --symbols
+      - --info sizes
+      - --info totals
+      - --info unused
+      - --info veneers
+      - --strict
+      - --summary_stderr
+      - --info summarysizes
+  define:
+    - STM32L476xx
+    - _RTE_
+  define-asm:
+    - STM32L476xx
+    - _RTE_
+  add-path:
+    - ../../../RTE/_Target_1
+    - ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+    - ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0/Drivers/CMSIS/Device/ST/STM32L4xx/Include
+  add-path-asm:
+    - ../../../RTE/_Target_1
+    - ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+    - ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0/Drivers/CMSIS/Device/ST/STM32L4xx/Include
+  output-dirs:
+    intdir: ../../../tmp
+    outdir: .
+    rtedir: ../../../RTE
+  output:
+    - type: elf
+      file: project.axf
+    - type: comp-db
+      file: compile_commands.json
+  components:
+    - component: ARM::CMSIS:CORE@5.6.0
+      condition: ARMv6_7_8-M Device
+      from-pack: ARM::CMSIS@5.9.0
+      selected-by: ARM::CMSIS:CORE
+      files:
+        - file: ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+          category: include
+          version: 5.6.0
+        - file: ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Include/tz_context.h
+          category: header
+          version: 5.6.0
+        - file: ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Template/ARMv8-M/main_s.c
+          category: sourceC
+          attr: template
+          version: 1.1.1
+          select: Secure mode 'main' module for ARMv8-M
+        - file: ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Core/Template/ARMv8-M/tz_context.c
+          category: sourceC
+          attr: template
+          version: 1.1.1
+          select: RTOS Context Management (TrustZone for ARMv8-M)
+        - file: ${CMSIS_PACK_ROOT}/ARM/CMSIS/5.9.0/CMSIS/Documentation/Core/html/index.html
+          category: doc
+          version: 5.6.0
+  linker:
+    script: ../../../project_Target_1.sct
+  groups:
+    - group: Source Group 1
+      files:
+        - file: ../../../src/main.c
+          category: sourceC
+        - file: ../../../src/startup_stm32l476xx.s
+          category: sourceAsm
+        - file: ../../../src/stm32l476xx.h
+          category: header
+        - file: ../../../src/LED.c
+          category: sourceC
+        - file: ../../../src/LED.h
+          category: header
+        - file: ../../../src/SysTimer.c
+          category: sourceC
+        - file: ../../../src/SysTimer.h
+          category: header
+  constructed-files:
+    - file: ../../../RTE/_Target_1/RTE_Components.h
+      category: header
+  licenses:
+    - license: <unknown>
+      packs:
+        - pack: ARM::CMSIS@5.9.0
+      components:
+        - component: ARM::CMSIS:CORE@5.6.0
+    - license: <unknown>
+      license-agreement: ${CMSIS_PACK_ROOT}/Keil/STM32L4xx_DFP/2.7.0/LICENSE
+      packs:
+        - pack: Keil::STM32L4xx_DFP@2.7.0

@@ -1,0 +1,8 @@
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/database.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1-build.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1-configure.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1-executes.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1-database.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/edit_cache.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/rebuild_cache.dir

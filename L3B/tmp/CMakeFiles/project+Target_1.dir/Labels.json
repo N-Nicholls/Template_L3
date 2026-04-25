@@ -1,0 +1,52 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1-complete.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-build.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-configure.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-database.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-download.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-executes.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-install.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-mkdir.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-patch.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-test.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project+Target_1"
+		],
+		"name" : "project+Target_1"
+	}
+}

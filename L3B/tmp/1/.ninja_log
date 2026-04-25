@@ -1,0 +1,52 @@
+# ninja log v7
+0	16	1777084494406778213	CMakeFiles/database	2b6e58e46dd4696
+0	16	1777084494406778213	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	224	1777086100630556298	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/startup_stm32l476xx.o	5636acb9dffceb3e
+1	334	1777086100630729464	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+334	405	1777086100964255734	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+0	16	1777086101055204943	CMakeFiles/database	2b6e58e46dd4696
+0	16	1777086101055204943	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	15	1777086121889720640	CMakeFiles/database	2b6e58e46dd4696
+1	15	1777086121889720640	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	233	1777086252253745629	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+233	298	1777086252485863276	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+1	16	1777086252568462406	CMakeFiles/database	2b6e58e46dd4696
+1	16	1777086252568462406	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	233	1777086462991146042	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+233	301	1777086463223073274	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+0	16	1777086463309171611	CMakeFiles/database	2b6e58e46dd4696
+0	16	1777086463309171611	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	47	1777086497959434679	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+48	90	1777086498006294825	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+1	17	1777086498066657924	CMakeFiles/database	2b6e58e46dd4696
+1	17	1777086498066657924	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	310	1777086786679880990	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+310	379	1777086786988490729	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+1	16	1777086787075263482	CMakeFiles/database	2b6e58e46dd4696
+1	16	1777086787075263482	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+0	17	1777086788998967635	CMakeFiles/database	2b6e58e46dd4696
+0	17	1777086788998967635	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	238	1777086939503191875	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+238	305	1777086939740543604	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+1	16	1777086939826167816	CMakeFiles/database	2b6e58e46dd4696
+1	16	1777086939826167816	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	240	1777087182488475959	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+240	307	1777087182727871269	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+0	15	1777087182813368648	CMakeFiles/database	2b6e58e46dd4696
+0	15	1777087182813368648	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090409528283696	CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090409528283696	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090596967750456	CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090596967750456	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090610294614133	CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090610294614133	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090640473756605	CMakeFiles/database	2b6e58e46dd4696
+0	14	1777090640473756605	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+1	315	1777091054321576148	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+315	387	1777091054635408979	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+1	16	1777091054725787792	CMakeFiles/database	2b6e58e46dd4696
+1	16	1777091054725787792	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696
+0	49	1777091141399041921	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o	947ba8f83edc2aa4
+49	92	1777091141448170588	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/out/project/Target_1/project.axf	c93e5f6f2bad32b5
+0	16	1777091141508555769	CMakeFiles/database	2b6e58e46dd4696
+0	16	1777091141508555769	/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1/CMakeFiles/database	2b6e58e46dd4696

@@ -1,0 +1,11 @@
+# Target labels
+ project+Target_1
+# Source files and their labels
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1-database
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1-database.rule
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-database.rule
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-configure.rule
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-patch.rule
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-update.rule
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-download.rule
+/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-mkdir.rule

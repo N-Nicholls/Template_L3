@@ -1,0 +1,8 @@
+{
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never",
+    "clangd.arguments": [
+        "--compile-commands-dir=/Users/nnicholls/VSCODE Projects/Template_L3/L3A/out/project/Target_1"
+    ],
+    "cmake.ignoreCMakeListsMissing": true
+}

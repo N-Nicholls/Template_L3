@@ -1,0 +1,14 @@
+# ninja log v7
+0	16	1776989261536615721	CMakeFiles/database	29136d41526609c
+0	16	1776989261536615721	/Users/nnicholls/VSCODE Projects/Template_L3/L3A/tmp/1/CMakeFiles/database	29136d41526609c
+1	337	1777084361507275931	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3A/src/main.o	a9cd1337f479baa5
+1	338	1777084361507395430	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3A/src/LED.o	100a118cef24c26d
+2	338	1777084361507501180	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3A/src/SysTimer.o	6105f5cd7f14ffa0
+1	347	1777084361507105931	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3A/src/startup_stm32l476xx.o	375046be806d9980
+347	436	1777084361852941643	/Users/nnicholls/VSCODE Projects/Template_L3/L3A/out/project/Target_1/project.axf	fc33fbf4ad255a31
+0	16	1777084361960961181	CMakeFiles/database	29136d41526609c
+0	16	1777084361960961181	/Users/nnicholls/VSCODE Projects/Template_L3/L3A/tmp/1/CMakeFiles/database	29136d41526609c
+1	207	1777084465024820789	CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3A/src/LED.o	100a118cef24c26d
+207	274	1777084465230515772	/Users/nnicholls/VSCODE Projects/Template_L3/L3A/out/project/Target_1/project.axf	fc33fbf4ad255a31
+1	16	1777084465315490590	CMakeFiles/database	29136d41526609c
+1	16	1777084465315490590	/Users/nnicholls/VSCODE Projects/Template_L3/L3A/tmp/1/CMakeFiles/database	29136d41526609c

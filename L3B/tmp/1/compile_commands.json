@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1",
+  "command": "/Users/nnicholls/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.24.0/bin/armclang -I\"/Users/nnicholls/VSCODE Projects/Template_L3/L3B/RTE/_Target_1\" -I/Users/nnicholls/.cache/arm/packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include -I/Users/nnicholls/.cache/arm/packs/Keil/STM32L4xx_DFP/2.7.0/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I\"/Users/nnicholls/VSCODE Projects/Template_L3/L3B/src\" -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard --target=arm-arm-none-eabi -c -mlittle-endian -masm=auto -g -O1 -Wa,armasm,--pd,\"STM32L476xx SETA 1\" -Wa,armasm,--pd,\"_RTE_ SETA 1\"  -c -o CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/startup_stm32l476xx.o \"/Users/nnicholls/VSCODE Projects/Template_L3/L3B/src/startup_stm32l476xx.s\"",
+  "file": "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/src/startup_stm32l476xx.s",
+  "output": "CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/startup_stm32l476xx.o"
+},
+{
+  "directory": "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/1",
+  "command": "/Users/nnicholls/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.24.0/bin/armclang --target=arm-arm-none-eabi -DSTM32L476xx -D_RTE_ -I\"/Users/nnicholls/VSCODE Projects/Template_L3/L3B/RTE/_Target_1\" -I/Users/nnicholls/.cache/arm/packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include -I/Users/nnicholls/.cache/arm/packs/Keil/STM32L4xx_DFP/2.7.0/Drivers/CMSIS/Device/ST/STM32L4xx/Include -I\"/Users/nnicholls/VSCODE Projects/Template_L3/L3B/src\" -isystem /Users/nnicholls/.vcpkg/artifacts/2139c4c6/compilers.arm.armclang/6.24.0/include --target=arm-arm-none-eabi -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -fcolor-diagnostics --target=arm-arm-none-eabi -mcpu=Cortex-M4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard --target=arm-arm-none-eabi -c -mlittle-endian -std=c99 -fno-rtti -funsigned-char -fshort-enums -fshort-wchar -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -g -O1 -o CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o -c \"/Users/nnicholls/VSCODE Projects/Template_L3/L3B/src/main.c\"",
+  "file": "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/src/main.c",
+  "output": "CMakeFiles/Group_Source_Group_1.dir/Users/nnicholls/VSCODE_Projects/Template_L3/L3B/src/main.o"
+}
+]

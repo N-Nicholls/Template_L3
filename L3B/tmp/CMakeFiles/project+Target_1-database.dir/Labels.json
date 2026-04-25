@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1-database"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/CMakeFiles/project+Target_1-database.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-database.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-configure.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-patch.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-update.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-download.rule"
+		},
+		{
+			"file" : "/Users/nnicholls/VSCODE Projects/Template_L3/L3B/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project+Target_1"
+		],
+		"name" : "project+Target_1-database"
+	}
+}

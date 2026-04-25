@@ -1,0 +1,41 @@
+# ninja log v7
+1	17	1777087387387055195	project+Target_1/src/project+Target_1-stamp/project+Target_1-mkdir	a75f1334b7e7e633
+1	17	1777087387387055195	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-mkdir	a75f1334b7e7e633
+17	32	1777087387401864772	project+Target_1/src/project+Target_1-stamp/project+Target_1-download	b3fd6b441809529a
+17	32	1777087387401864772	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-download	b3fd6b441809529a
+32	46	1777087387416089682	project+Target_1/src/project+Target_1-stamp/project+Target_1-update	3e4fca226b52fc2b
+32	46	1777087387416089682	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-update	3e4fca226b52fc2b
+46	61	1777087387430338384	project+Target_1/src/project+Target_1-stamp/project+Target_1-patch	8f5f6fc6bc3e7bd2
+46	61	1777087387430338384	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-patch	8f5f6fc6bc3e7bd2
+61	829	1777087388198531379	project+Target_1/src/project+Target_1-stamp/project+Target_1-configure	8e9821db32c084ff
+61	829	1777087388198531379	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-configure	8e9821db32c084ff
+23	54	1777089897815783329	project+Target_1/src/project+Target_1-stamp/project+Target_1-database	8c2e410739f4919f
+23	54	1777089897815783329	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-database	8c2e410739f4919f
+0	23	1777089897793648830	project+Target_1/src/project+Target_1-stamp/project+Target_1-build	4b2802c03500578d
+0	23	1777089897793648830	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/out/project/Target_1/project.axf	4b2802c03500578d
+0	23	1777089897793648830	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/out/project/Target_1/compile_commands.json	4b2802c03500578d
+0	23	1777089897793648830	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-build	4b2802c03500578d
+481	498	1777089888607520919	project+Target_1/src/project+Target_1-stamp/project+Target_1-executes	5b44c3013f18d119
+481	498	1777089888607520919	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-executes	5b44c3013f18d119
+54	61	1777089897846712969	project+Target_1/src/project+Target_1-stamp/project+Target_1-install	129c19935389207a
+54	61	1777089897846712969	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-install	129c19935389207a
+61	74	1777089897867025000	project+Target_1/src/project+Target_1-stamp/project+Target_1-test	d52ae7e81a96128d
+61	74	1777089897867025000	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-test	d52ae7e81a96128d
+74	94	1777089897886464000	CMakeFiles/project+Target_1-complete	b4c6dc3787127940
+74	94	1777089897886464000	project+Target_1/src/project+Target_1-stamp/project+Target_1-done	b4c6dc3787127940
+74	94	1777089897886464000	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1-complete	b4c6dc3787127940
+74	94	1777089897886464000	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-done	b4c6dc3787127940
+1	348	1777089934073687997	project+Target_1/src/project+Target_1-stamp/project+Target_1-build	4b2802c03500578d
+1	348	1777089934073687997	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/out/project/Target_1/project.axf	4b2802c03500578d
+1	348	1777089934073687997	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/out/project/Target_1/compile_commands.json	4b2802c03500578d
+1	348	1777089934073687997	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-build	4b2802c03500578d
+348	384	1777089934420611358	project+Target_1/src/project+Target_1-stamp/project+Target_1-database	8c2e410739f4919f
+348	384	1777089934420611358	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-database	8c2e410739f4919f
+385	393	1777089934457078060	project+Target_1/src/project+Target_1-stamp/project+Target_1-install	129c19935389207a
+385	393	1777089934457078060	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-install	129c19935389207a
+393	408	1777089934480027000	project+Target_1/src/project+Target_1-stamp/project+Target_1-test	d52ae7e81a96128d
+393	408	1777089934480027000	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-test	d52ae7e81a96128d
+408	429	1777089934501243000	CMakeFiles/project+Target_1-complete	b4c6dc3787127940
+408	429	1777089934501243000	project+Target_1/src/project+Target_1-stamp/project+Target_1-done	b4c6dc3787127940
+408	429	1777089934501243000	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/CMakeFiles/project+Target_1-complete	b4c6dc3787127940
+408	429	1777089934501243000	/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/project+Target_1/src/project+Target_1-stamp/project+Target_1-done	b4c6dc3787127940

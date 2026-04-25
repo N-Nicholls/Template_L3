@@ -1,0 +1,5 @@
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/1/CMakeFiles/database.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/1/CMakeFiles/project+Target_1.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/1/CMakeFiles/Group_Source_Group_1.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/1/CMakeFiles/edit_cache.dir
+/Users/nnicholls/VSCODE Projects/Template_L3/L3C/tmp/1/CMakeFiles/rebuild_cache.dir

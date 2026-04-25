@@ -1,0 +1,21 @@
+build-idx:
+  generated-by: csolution version 2.13.0+p3-g40b6564e
+  csolution: project.csolution.yml
+  cbuild-run: out/project+Target_1.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: project.cproject.yml
+  cbuilds:
+    - cbuild: out/project/Target_1/project+Target_1.cbuild.yml
+      project: project
+      configuration: +Target_1
+      messages:
+        warnings:
+          - file '/Users/nnicholls/VSCODE Projects/Template_L3/L3A/.cmsis/project+Target_1.dbgconf' not found; use --update-rte
+        info:
+          - project.cbuild-pack.yml - file generated successfully
+          - project+Target_1.cbuild-run.yml - file generated successfully
+          - project+Target_1.cbuild.yml - file generated successfully
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.17.0
+        - pack: ARM::CMSIS-NN@4.1.0
